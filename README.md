@@ -3,7 +3,7 @@
 ### Software Engineer / Full Stack Developer
 Full stack developer with a creative mind to solve problems and an unbreakable grit to find the solution. A transitioning educator with 12 years of professional experience leading teams, serving as a training specialist and using technology to leverage learning. With two degrees in music education (Bachelor's and Master's) and a certificate in Software Engineering from the Flatiron School, I bring a wide array of experiences and knowledge to support any organization.  I consider myself to be a great communicator, leader, and hobbyist of finance, golf, and BBQ.
 
-##Skills and Experience
+## Skills and Experience
 - 💻 HTML, CSS, JavaScript 
 - ⚛ React, Redux, Material UI,
 - 💎 Ruby, 🐙Rails
