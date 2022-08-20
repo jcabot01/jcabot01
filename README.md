@@ -10,7 +10,7 @@ Full stack developer with a creative mind to solve problems and an unbreakable g
 - 🌱 I’m currently learning Typescript & Angular. 
 
 ## Projects
-[<img src='https://github.com/jcabot01/jcabot01/blob/main/landing%20pagecropped.png' alt='RVnB' height='80'>](https://github.com/jcabot01/phase-4-project)
+[<img src='https://github.com/jcabot01/jcabot01/blob/main/landing%20pagecropped.png' alt='RVnB' height='160'>](https://github.com/jcabot01/phase-4-project)
 
 
 
