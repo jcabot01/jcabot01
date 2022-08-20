@@ -10,7 +10,8 @@ Full stack developer with a creative mind to solve problems and an unbreakable g
 - 🌱 I’m currently learning Typescript & Angular. 
 
 ## Projects
-<img src= https://github.com/jcabot01/jcabot01/blob/main/landing%20pagecropped.png width=100px />
+[![RV'n B](https://github.com/jcabot01/jcabot01/blob/main/landing%20pagecropped.png)](https://github.com/jcabot01/phase-4-project)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jcabot01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joncabot//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jcabot01.github.io/personal-portfolio-website/index.html#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@jfc0053)  
