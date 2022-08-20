@@ -6,7 +6,7 @@ Full stack developer with a creative mind to solve problems and an unbreakable g
 ## Skills and Experience
 - 💻 HTML, CSS, JavaScript 
 - ⚛ React, Redux, Material UI,
-- 💎 Ruby, 🐙Rails
+- 💎 Ruby, 🐙 Rails
 - 🥫 SQLite3, PostgreSQL
 
 - 🌱 I’m currently learning Typescript & Angular. 
