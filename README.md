@@ -6,11 +6,10 @@ Full stack developer with a creative mind to solve problems and an unbreakable g
 
 ## Contact and Social 📲
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joncabot//)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jcabot01)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@jfc0053) 
+<a href="https:/www.linkedin.com/in/joncabot/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://medium.com/@jfc0053" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+<a https://jcabot01.github.io/personal-portfolio-website/index.html#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 
-## Personal Website 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jcabot01.github.io/personal-portfolio-website/index.html#)
-<br>
 
 ## Tech Toolbox 🛠
 
