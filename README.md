@@ -9,7 +9,7 @@ Full stack developer with a creative mind to solve problems and an unbreakable g
 
 <a href="https:/www.linkedin.com/in/joncabot/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://medium.com/@jfc0053" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height=25></a>  
-<a href="https://jcabot01.github.io/personal-portfolio-website/index.html#" target="blank"><p color="white" height=25>Personal Website</p></a>
+<a href="https://jcabot01.github.io/personal-portfolio-website/index.html#" target="blank"><button color="red" height=25>Personal Website</button></a>
 <br>
 
 ## Tech Toolbox 🛠
