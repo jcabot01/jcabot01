@@ -3,13 +3,14 @@
 Full stack developer with a creative mind to solve problems and an unbreakable grit to find the solution. A transitioning educator with 12 years of professional experience leading teams, serving as a training specialist and using technology to leverage learning. With two degrees in music education (Bachelor's and Master's) and a certificate in Software Engineering from the Flatiron School, I bring a wide array of experiences and knowledge to support any organization.  I consider myself to be a great communicator, leader, and hobbyist of finance, golf, and BBQ.
 
 - 🌱 I’m currently learning Typescript & Angular. 
+<br>
 
 ## Contact and Social 📲
 
 <a href="https:/www.linkedin.com/in/joncabot/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://medium.com/@jfc0053" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height=25></a>  
 <a href="https://jcabot01.github.io/personal-portfolio-website/index.html#" target="blank"><p color="white" height=25>Personal Website</p></a>
-
+<br>
 
 ## Tech Toolbox 🛠
 
