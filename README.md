@@ -7,7 +7,8 @@ Full stack developer with a creative mind to solve problems and an unbreakable g
 ## Contact and Social 📲
 
 <a href="https:/www.linkedin.com/in/joncabot/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://medium.com/@jfc0053" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height=25></a>  <a href="https://jcabot01.github.io/personal-portfolio-website/index.html#" target="blank"><p color="white" height=25>Personal Website</p></a>
+<a href="https://medium.com/@jfc0053" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height=25></a>  
+<a href="https://jcabot01.github.io/personal-portfolio-website/index.html#" target="blank"><p color="white" height=25>Personal Website</p></a>
 <br>
 
 ## Tech Toolbox 🛠
@@ -29,7 +30,7 @@ Full stack developer with a creative mind to solve problems and an unbreakable g
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<br>
 
 ## Projects
 [<img src='https://github.com/jcabot01/jcabot01/blob/main/Phase-4-project%20blog%20login.PNG' alt='RVnB' width='140' height='200'>](https://github.com/jcabot01/phase-4-project)
