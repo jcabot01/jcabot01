@@ -7,7 +7,7 @@ Full stack developer with a creative mind to solve problems and an unbreakable g
 
 ## Contact and Social 📲
 
-<a href="https://jcabot01.github.io/personal-portfolio-website/index.html#" target="blank"><img src="https://img.shields.io/static/v1?label=Personal_Website&message=Personal_Website&color=blue"></a>
+<a href="https://jcabot01.github.io/personal-portfolio-website/index.html#" target="blank"><img src="https://img.shields.io/static/v1?label=Personal Website&color=blue"></a>
 <a href="https:/www.linkedin.com/in/joncabot/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://medium.com/@jfc0053" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height=25></a>  
 <br>
