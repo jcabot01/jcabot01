@@ -2,19 +2,20 @@
 ### Software Engineer / Full Stack Developer
 Full stack developer with a creative mind to solve problems and an unbreakable grit to find the solution. A transitioning educator with 12 years of professional experience leading teams, serving as a training specialist and using technology to leverage learning. With two degrees in music education (Bachelor's and Master's) and a certificate in Software Engineering from the Flatiron School, I bring a wide array of experiences and knowledge to support any organization.  I consider myself to be a great communicator, leader, and hobbyist of finance, golf, and BBQ.
 
-## Skills and Experience
-- 💻 HTML, CSS, JavaScript 
-- ⚛ React, Redux, Material UI,
-- 💎 Ruby, 🐙 Rails
-- 🥫 SQLite3, PostgreSQL
 - 🌱 I’m currently learning Typescript & Angular. 
+
+## Contact Me 📲
+
+<a href="https://www.linkedin.com/in/joncabot/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:jfc0053@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<br>
 
 ## Tech Toolbox 🛠
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Material_UI-DB7093?style=for-the-badge&logo=mui&logoColor=white)
+![](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
