@@ -1,8 +1,8 @@
 ![Jon Cabot Banner](https://github.com/jcabot01/jcabot01/blob/main/Untitled%20design%20(16).png)
 ### Software Engineer / Full Stack Developer
-Full stack developer with a creative mind to solve problems and an unbreakable grit to find the solution. A transitioning educator with 12 years of professional experience leading teams, serving as a training specialist and using technology to leverage learning. With two degrees in music education (Bachelor's and Master's) and a certificate in Software Engineering from the Flatiron School, I bring a wide array of experiences and knowledge to support any organization.  I consider myself to be a great communicator, leader, and hobbyist of finance, golf, and BBQ.
+Full stack developer known for creativity and unwavering determination. Transitioning from a 12-year career in education, where I led teams, specialized in training, and utilized technology to enhance learning. Holding degrees in music education (Bachelor's and Master's) alongside a Software Engineering certificate from the Flatiron School, I offer a diverse skill set to support any organization. I take pride in communicating effectively and supporting my team.
 
-- 🌱 I’m currently learning PHP, Laravel, Alpine JS, RxJS, & Tailwind CSS in several new projects. 
+- 🌱 I’m currently learning Data Structures and Algorithms in w3schools DSA course and studying Harvard's CS50 course.
 <br>
 
 ## Contact and Social 📲
