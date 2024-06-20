@@ -1,6 +1,6 @@
 ![Jon Cabot Banner](https://github.com/jcabot01/jcabot01/blob/main/Untitled%20design%20(16).png)
 ### Software Engineer / Full Stack Developer
-Full stack developer known for creativity and unwavering determination. Transitioning from a 12-year career in education, where I led teams, specialized in training, and utilized technology to enhance learning. Holding degrees in music education (Bachelor's and Master's) alongside a Software Engineering certificate from the Flatiron School, I offer a diverse skill set to support any organization. I take pride in communicating effectively and supporting my team.
+Full stack developer known for creativity and unwavering determination. Transitioning from a 12-year career in education, where I led teams, specialized in training, and utilized technology to enhance learning, to a career in technology building large-scale applications with a talented team. Holding degrees in music education (Bachelor's and Master's) alongside a Software Engineering certificate from the Flatiron School, I offer a diverse skill set to support any organization. Some of my personal interests include golf, finance, and traveling with my family.
 
 - 🌱 I’m currently learning Data Structures and Algorithms in w3schools DSA course and studying Harvard's CS50 course.
 <br>
